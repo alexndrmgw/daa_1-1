@@ -1,0 +1,6 @@
+deklarasi
+var luas, alas, tinggi
+alas ← 25
+tinggi ←30
+luas = ½*alas*tinggi
+write(luas)
