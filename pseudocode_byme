@@ -1,0 +1,7 @@
+program_hitung_luas_lingkaran
+
+deklarasi
+var r,luas
+r ← 8
+luas = 22/7 * r^2
+write(luas)
