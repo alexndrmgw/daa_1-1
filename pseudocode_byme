@@ -1,7 +1,7 @@
-program_hitung_luas_lingkaran
+prog_input_nilai_pelajaran
 
 deklarasi
-var r,luas
-r ← 8
-luas = 22/7 * r^2
-write(luas)
+var nilai,i
+for(i←1;i<=5;i++)
+output('Nilai pelajaran ke 'i' adalah)
+input(nilai)
